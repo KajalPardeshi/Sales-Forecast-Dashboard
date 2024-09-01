@@ -1,0 +1,1 @@
+A dynamic sales dashboard created in Power BI to provide real-time insights, track sales performance, and support data-driven decision-making. Features include interactive reports, trend analysis, forecasting, and customizable KPIs to empower sales teams with actionable data.
